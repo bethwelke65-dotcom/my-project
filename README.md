@@ -1,2 +1,2 @@
 # This is my TYCDSI 2026 GitHub Repo
-Hi this is my first readme!
+This is my fixed Readme file!!
